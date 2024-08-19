@@ -22,9 +22,9 @@
 
 ## About the Project
 
-In this [`Sales Analysis`](https://sinjoysaha.github.io/sales-analysis/) Jupyter notebook, we perform Exploratory Data Analysis of the huge Sales data by following the  tasks mentioned below. We try to answer the following set of real-world business questions to draw insights from this huge Sales dataset.
+In this Sales Analysis Jupyter notebook, we perform Exploratory Data Analysis of the huge Sales data by following the  tasks mentioned below. We try to answer the following set of real-world business questions to draw insights from this huge Sales dataset.
 
-[![Project Image](docs/images/sales-analysis-projectimage.png)](https://sinjoysaha.github.io/sales-analysis/)
+
 
 ### The Dataset
 The dataset contains `12` CSV files containing sales details for the 12 months of the year 2019. The naming convention is as follows: Sales_[MONTH_NAME]_2019\
