@@ -65,7 +65,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Sinjoy Saha 
-  * [LinkedIn](https://linkedin.com/in/sinjoysaha)
-  * [Twitter](https://twitter.com/SinjoySaha)
+Arunabh Dihingia
+  * [LinkedIn](linkedin.com/in/arunabh-dihingia-84b5a11ab)
+    
 
