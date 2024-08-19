@@ -66,6 +66,6 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 Arunabh Dihingia
-  * [LinkedIn](linkedin.com/in/arunabh-dihingia-84b5a11ab)
+  * [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJ7yHyC6vS5WDPTgAaPbgrg%3D%3D)
     
 
